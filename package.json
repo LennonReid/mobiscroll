@@ -55,6 +55,7 @@
     "IE 10"
   ],
   "devDependencies": {
+<<<<<<< HEAD
     "@angular/animations": "^5.2.11",
     "@angular/common": "^5.2.11",
     "@angular/compiler": "^5.2.11",
@@ -62,6 +63,15 @@
     "@angular/core": "^5.2.11",
     "@angular/forms": "^5.2.11",
     "@angular/platform-browser": "^5.2.11",
+=======
+    "@angular/animations": "^4.4.7",
+    "@angular/common": "^4.4.7",
+    "@angular/compiler": "^4.4.7",
+    "@angular/compiler-cli": "^4.4.7",
+    "@angular/core": "^4.4.7",
+    "@angular/forms": "^4.4.7",
+    "@angular/platform-browser": "^4.4.7",
+>>>>>>> main
     "@babel/core": "^7.7.2",
     "@babel/plugin-proposal-class-properties": "^7.7.0",
     "@babel/preset-env": "^7.7.1",
@@ -84,6 +94,7 @@
     "rollup-plugin-postprocess": "^1.0.2",
     "rollup-plugin-terser": "^5.2.0",
     "rollup-plugin-uglify": "^6.0.4",
+<<<<<<< HEAD
     "rxjs": "^5.5.12",
     "scss-bundle": "^2.5.1",
     "tslib": "^1.10.0",
@@ -95,5 +106,12 @@
     "@angular/platform-browser-dynamic": "^5.2.11",
     "@angular/platform-server": "^5.2.11",
     "@angular/router": "^5.2.11"
+=======
+    "rxjs": "^5.5.11",
+    "scss-bundle": "^2.5.1",
+    "tslib": "^1.10.0",
+    "typescript": "2.9.2",
+    "zone.js": "^0.8.26"
+>>>>>>> main
   }
 }
